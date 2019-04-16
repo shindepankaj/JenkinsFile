@@ -1,1 +1,1 @@
-qweqwe
+INSERT INTO public.role(role_name) VALUES ('developer3');
